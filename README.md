@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mert Can.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning intricacies of the back-end development.
-- 📫 How to reach me = you can send mail to (  mert.ozserce@technolobal.com  ) OR (  mert_ozserce@outlook.com  ).
+- 📫 How to reach me: you can send mail to (  mert.ozserce@technolobal.com  ) OR (  mert_ozserce@outlook.com  ).
 - 🏢 I'm back-end developer in Technolobal and you can reach our web site to this link (  www.technolobal.com  ).
